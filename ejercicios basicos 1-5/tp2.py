@@ -1,0 +1,6 @@
+print("Ingrese las 3 notas a promediar")
+n1 = float( input("primer nota: "))
+n2 = float( input("segunda nota: "))
+n3 = float( input("tercer nota: "))
+promedio = float( (n1+n2+n3)/3 )
+print(promedio)
